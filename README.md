@@ -1,10 +1,10 @@
 ## 📖 About The Project
-**`Right-it`**은 지식과 경험을 아카이빙하기 위해 직접 개발한 블로그 프로젝트입니다.
+`Right-it`은 지식과 경험을 아카이빙하기 위해 직접 개발한 블로그 프로젝트입니다.
 
 <br>
 
 ## Naming Philosophy
-> 💬 ***Find the Right It, Then Write It (불확실성을 해결해나가는 과정을 기록합니다).***
+> 💬 ***Find the Right It, Then Write It (불확실성을 해결해나가는 과정을 기록합니다)***
 
 * **The Right It**: 시장이 원하는 '될 놈(비지니스·프로덕트)'을 만드는 과정
 * **Write It**: 그 치열한 고민과 배움을 기록하는 행위
